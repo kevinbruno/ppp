@@ -1,3 +1,0 @@
-"# GITANNA" 
-"# ppp" 
-"# ppp" 
